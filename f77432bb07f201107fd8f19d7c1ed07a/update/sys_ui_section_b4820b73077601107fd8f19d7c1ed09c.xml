@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="b4820b73077601107fd8f19d7c1ed09c" sys_domain="global" table="x_789440_iplookup_ipaddressinfo" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-18 18:22:47</sys_created_on>
+            <sys_id>3882cb73077601107fd8f19d7c1ed005</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_789440_iplookup_ipaddressinfo" sys_domain="global" view="Default view">b4820b73077601107fd8f19d7c1ed09c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-18 18:22:47</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ip_address</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-18 18:22:47</sys_created_on>
+            <sys_id>3082cb73077601107fd8f19d7c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_789440_iplookup_ipaddressinfo" sys_domain="global" view="Default view">b4820b73077601107fd8f19d7c1ed09c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-18 18:22:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-18 18:22:47</sys_created_on>
+            <sys_id>b082cb73077601107fd8f19d7c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_789440_iplookup_ipaddressinfo" sys_domain="global" view="Default view">b4820b73077601107fd8f19d7c1ed09c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-18 18:22:47</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-18 18:22:47</sys_created_on>
+            <sys_id>3482cb73077601107fd8f19d7c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_789440_iplookup_ipaddressinfo" sys_domain="global" view="Default view">b4820b73077601107fd8f19d7c1ed09c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-18 18:22:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-18 18:22:47</sys_created_on>
+            <sys_id>b482cb73077601107fd8f19d7c1ed006</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_789440_iplookup_ipaddressinfo" sys_domain="global" view="Default view">b4820b73077601107fd8f19d7c1ed09c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-18 18:22:47</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_789440_iplookup_ipaddressinfo</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-18 18:22:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4820b73077601107fd8f19d7c1ed09c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_789440_iplookup_ipaddressinfo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IPLookup" source="x_789440_iplookup">f77432bb07f201107fd8f19d7c1ed07a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">f77432bb07f201107fd8f19d7c1ed07a</sys_scope>
+            <sys_update_name>sys_ui_section_b4820b73077601107fd8f19d7c1ed09c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-18 18:22:47</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
